@@ -1,11 +1,10 @@
 # DjangoHelper
 
-#### Simple helpers to speed up your Django development
-As a developer, we often look for third party packages to speed up our development. In terms of the number of packages available, not all of them are actively maintained even though they are very helpful. 
-That's why I learned to make my own helper that is easier to understand and maintain so as not to depend too much on third parties. This helper was created using many references, including existing packages that have the same function as well.
+#### Streamlining Django Development with Simple Helpers
+As developers, we often seek third-party packages to boost our development speed. However, not all packages are actively maintained or even abondoned. That's why I decided to create my own helper—a tool that's easy to grasp and maintain, reducing dependency on third-party solutions. This helper draws inspiration from various references, including existing packages with similar functions.
 
-#### Is this helper helper well tested ?
-Of course no. ```We crash our production like real men```. Please use with caution 😆.
+#### Is this helper well-tested?
+Well, let's just say we like to live dangerousl ```We crash our production like real men``` Please use with caution 😆.
 
-#### Ideas and issues
-It's greatly appreciated if you have any ideas or issues, please open.
+#### Share Your Thoughts and Challenges
+Your ideas and issues are invaluable. Feel free to open up and share your thoughts!
