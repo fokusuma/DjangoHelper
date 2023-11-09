@@ -7,5 +7,5 @@ That's why I learned to make my own helper that is easier to understand and main
 #### Is this helper helper well tested ?
 Of course no. ```We crash our production like real men```. Please use with caution 😆.
 
-#### Idea and issues
+#### Ideas and issues
 It's greatly appreciated if you have any ideas or issues, please open.
